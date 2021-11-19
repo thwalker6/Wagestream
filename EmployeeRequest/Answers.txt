@@ -1,0 +1,2 @@
+The customer seems to be missing a bunch of values in their properties.  They do not have a field of "available_to_transer" which seems to be the cause.  I tried to unordered_list
+the api for checking issues which doesnt actually return anything other than a 200 status.  Their profile seems like it just needs to be given the property of available to transfer though.
